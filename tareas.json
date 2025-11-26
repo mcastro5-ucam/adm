@@ -1,0 +1,41 @@
+
+[
+  {
+    "id": 1,
+    "titulo": "Reunión con el equipo",
+    "descripcion": "Puesta al día semanal",
+    "tipo": "reunion",
+    "fecha": "2025-12-12T09:00:00Z",
+    "duracionMinutos": 60,
+    "ubicacion": "Oficina Central",
+    "enlaces": ["https://meet.example.com/abc123"],
+    "participantes": ["Ana", "Luis", "María"],
+    "categoria": {
+      "tipo": "reunion",
+      "color": "#FF0000",
+      "iconoURL": "https://example.com/icono-reunion.png"
+    },
+    "latitud": 43.3623,
+    "longitud": -8.4115,
+    "estado": "pendiente"
+  },
+  {
+    "id": 2,
+    "titulo": "Entrenamiento en el gimnasio",
+    "descripcion": "Sesión de fuerza y cardio",
+    "tipo": "deporte",
+    "fecha": "2025-12-11T18:00:00Z",
+    "duracionMinutos": 90,
+    "ubicacion": "Gimnasio local",
+    "enlaces": [],
+    "participantes": ["Cheis"],
+    "categoria": {
+      "tipo": "deporte",
+      "color": "#00AA00",
+      "iconoURL": "https://example.com/icono-deporte.png"
+    },
+    "latitud": 43.365,
+    "longitud": -8.41,
+    "estado": "pendiente"
+  }
+]
