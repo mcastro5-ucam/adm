@@ -2,7 +2,7 @@
 [
   {
     "id": 1,
-    "titulo": "Reunión con el equipo",
+    "titulo": "Reunión con Jugadores",
     "descripcion": "Puesta al día semanal",
     "tipo": "reunion",
     "fecha": "2025-12-12T09:00:00Z",
